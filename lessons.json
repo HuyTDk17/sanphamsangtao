@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Bản chất của nhận thức",
+    "summary": "Trình bày các quan niệm về nhận thức trước Mác và quan điểm của chủ nghĩa duy vật biện chứng.",
+    "file": "data/lesson-1.md"
+  },
+  {
+    "id": 2,
+    "title": "Chủ thể nhận thức",
+    "summary": "Khái niệm, đặc điểm và vai trò của chủ thể nhận thức.",
+    "file": "data/lesson-2.md"
+  },
+  {
+    "id": 3,
+    "title": "Khách thể nhận thức",
+    "summary": "Khái niệm khách thể nhận thức và sự khác biệt với đối tượng nhận thức.",
+    "file": "data/lesson-3.md"
+  },
+  {
+    "id": 4,
+    "title": "Quan hệ giữa chủ thể và khách thể nhận thức",
+    "summary": "Mối quan hệ biện chứng giữa chủ thể và khách thể.",
+    "file": "data/lesson-4.md"
+  },
+  {
+    "id": 5,
+    "title": "Con đường biện chứng của nhận thức chân lý",
+    "summary": "Từ trực quan sinh động đến tư duy trừu tượng và trở lại thực tiễn.",
+    "file": "data/lesson-5.md"
+  },
+  {
+    "id": 6,
+    "title": "Lý luận",
+    "summary": "Bản chất và cấu trúc của hoạt động lý luận.",
+    "file": "data/lesson-6.md"
+  },
+  {
+    "id": 7,
+    "title": "Thực tiễn",
+    "summary": "Khái niệm, hình thức và vai trò của thực tiễn.",
+    "file": "data/lesson-7.md"
+  },
+  {
+    "id": 8,
+    "title": "Mối quan hệ giữa lý luận và thực tiễn",
+    "summary": "Vai trò của lý luận đối với thực tiễn và ngược lại.",
+    "file": "data/lesson-8.md"
+  },
+ 
+  {
+    "id": 9,
+    "title": "Mối quan hệ giữa lý luận và thực tiễn",
+    "summary": "Vai trò của lý luận đối với thực tiễn và ngược lại.",
+    "file": "data/lesson-9.md"
+  },
+ 
+  {
+    "id": 10,
+    "title": "Mối quan hệ giữa lý luận và thực tiễn",
+    "summary": "Vai trò của lý luận đối với thực tiễn và ngược lại.",
+    "file": "data/lesson-10.md"
+  },
+
+  {
+    "id": 11,
+    "title": "Mối quan hệ giữa lý luận và thực tiễn",
+    "summary": "Vai trò của lý luận đối với thực tiễn và ngược lại.",
+    "file": "data/lesson-11.md"
+  }
+  ,
+  {
+    "id": 12,
+    "title": "Mối quan hệ giữa lý luận và thực tiễn",
+    "summary": "Vai trò của lý luận đối với thực tiễn và ngược lại.",
+    "file": "data/lesson-12.md"
+  }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lý Luận Nhận Thức</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>LÝ LUẬN NHẬN THỨC</h1>
+    <p>Trang học tập và ôn luyện kiến thức Triết học Mác - Lênin</p>
+
+    <button id="darkModeBtn">🌙 Dark Mode</button>
+</header>
+
+<section class="controls">
+
+    <input
+        type="text"
+        id="searchInput"
+        placeholder="Tìm kiếm bài học..."
+    >
+
+    <div class="progress-wrapper">
+        <div id="progressBar"></div>
+    </div>
+
+    <p id="progressText">Đã học: 0%</p>
+
+</section>
+
+<main id="lessonContainer"></main>
+
+<section class="quiz-section">
+
+    <h2>Trò Chơi Trắc Nghiệm</h2>
+
+    <div id="quizContainer"></div>
+
+    <button id="submitQuiz">
+        Nộp bài
+    </button>
+
+    <button id="resetQuiz">
+        Làm lại
+    </button>
+
+    <div id="quizResult"></div>
+
+</section>
+
+<div id="modal" class="modal">
+
+    <div class="modal-content">
+
+        <span id="closeModal">&times;</span>
+
+        <h2 id="modalTitle"></h2>
+
+        <div id="modalBody"></div>
+
+    </div>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="quizData.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
